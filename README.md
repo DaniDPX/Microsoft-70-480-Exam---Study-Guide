@@ -902,3 +902,7 @@ Handle dragging from desktop to browser
 		    //read file objects
 	    }
     }
+
+
+#### TEST yourself here
+http://pts.measureup.com/web/PBS/LMS/index.php?role=0&course=test2014121132447263&ref=mindhub
